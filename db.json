@@ -1,0 +1,21 @@
+{
+  "requestOTP": [
+    {
+      "Message": "",
+      "Status": "SUCCESSFUL"
+    }
+  ],
+  "verifyOTP": [
+    {
+      "Message": "",
+      "Status": "SUCCESSFUL"
+    }
+  ],
+  "createCspSR": [
+    {
+      "Message": "",
+      "Status": "SUCCESSFUL",
+      "SRNumber": 123
+    }
+  ],
+}
